@@ -1,0 +1,35 @@
+{
+  "auth": {
+    "signIn": "Se Connecter",
+    "signUp": "S'inscrire",
+    "email": "Email",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "forgotPassword": "Mot de passe oublié?",
+    "noAccount": "Vous n'avez pas de compte?",
+    "hasAccount": "Vous avez déjà un compte?",
+    "signInButton": "Se Connecter",
+    "signUpButton": "S'inscrire",
+    "or": "ou"
+  },
+  "common": {
+    "appName": "Next PWA",
+    "welcome": "Bienvenue sur Next PWA",
+    "dashboard": "Tableau de bord",
+    "settings": "Paramètres",
+    "profile": "Profil",
+    "logout": "Déconnexion",
+    "language": "Langue",
+    "theme": "Thème",
+    "english": "Anglais",
+    "french": "Français",
+    "light": "Clair",
+    "dark": "Sombre",
+    "system": "Système"
+  },
+  "home": {
+    "title": "Bienvenue sur Next PWA",
+    "subtitle": "Une application PWA Next.js avec authentification et support i18n",
+    "getStarted": "Commencer"
+  }
+}
